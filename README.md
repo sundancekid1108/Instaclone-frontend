@@ -1,4 +1,4 @@
 # Instaclone-frontend
  Instaclone-frontend
 
-5.2부터 싲가
+5.7부터 싲가
